@@ -1,0 +1,724 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "isAdmin": "true",
+      "firstname": "Vua",
+      "lastname": "Lì Đòn ",
+      "email": "admin@joytrav.com",
+      "password": "admin",
+      "phone": "0356969969",
+      "address": " 77 Lê Trung Nghĩa",
+      "avatar": "https://i.imgur.com/Z4MDNDb.jpeg",
+      "gender": "male"
+    },
+    {
+      "firstname": "Maria",
+      "lastname": "Ozawa",
+      "email": "testing01@gmail.com",
+      "password": "123123",
+      "gender": "*",
+      "address": "*",
+      "avatar": "*",
+      "phone": "0980980989",
+      "isAdmin": "true",
+      "id": 6
+    },
+    {
+      "firstname": "Tokuda ",
+      "lastname": "Cường\n\n",
+      "email": "test@gmail.com",
+      "password": "123123",
+      "gender": "male",
+      "address": "qưewqewqewqe",
+      "avatar": "https://gamek.mediacdn.vn/133514250583805952/2020/5/16/photo-1-15896097558091974904037.png",
+      "phone": "0909090925",
+      "isAdmin": "false",
+      "id": 7
+    },
+    {
+      "firstname": "Hung",
+      "lastname": "Ho Xuan",
+      "email": "batkithoi@gmail.com",
+      "password": "123123",
+      "gender": "male",
+      "address": "Quận Cầu Giấy",
+      "avatar": "https://haycafe.vn/wp-content/uploads/2022/02/Hinh-avatar-facebook-doc-ngon-giua.jpg",
+      "phone": "0987655428",
+      "isAdmin": "false",
+      "id": 8
+    },
+    {
+      "firstname": "Thanh",
+      "lastname": "Tran Van",
+      "email": "thanh@gmail.com",
+      "password": "123123",
+      "gender": "Male",
+      "address": "42 Tự Cường",
+      "avatar": "data:image/jpeg;base64,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",
+      "phone": "0355963288",
+      "isAdmin": "false",
+      "id": 9
+    },
+    {
+      "firstname": "hiep",
+      "lastname": "dinh",
+      "email": "testcase@gmail.com",
+      "password": "hiepdinh1998",
+      "gender": "*",
+      "address": "*",
+      "avatar": "*",
+      "phone": "*",
+      "isAdmin": "false",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Explore the incredibly informative and comprehensive Ha Long travel guide for 2023.",
+      "picture": "https://s3.nucuoimekong.com/ncmk/wp-content/uploads/dia-diem-du-lich-ha-long.jpg",
+      "destination": "Ha Long, Vietnam",
+      "year": 2023,
+      "intro": "Welcome to Ha Long, a breathtaking coastal city in northern Vietnam known for its stunning natural landscapes, including thousands of limestone karsts and emerald waters. In 2023, Ha Long promises an unforgettable travel experience filled with adventures, cultural explorations, and relaxation by the beach. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "You can reach Ha Long by air via Hanoi's Noi Bai International Airport. From there, it's a scenic 2-3 hour drive to Ha Long. Alternatively, you can take a bus or a private shuttle. Cruises departing from Hanoi are also popular, offering a unique way to reach Ha Long Bay."
+        },
+        {
+          "title": "Accommodation",
+          "content": "Ha Long offers a range of accommodation options, from luxury resorts to budget-friendly guesthouses. For a memorable experience, consider staying on a traditional Vietnamese junk boat in Ha Long Bay. These boats offer stunning views and a unique overnight experience."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. Ha Long Bay Cruise: Explore the UNESCO World Heritage Site of Ha Long Bay by taking a cruise. Marvel at the towering limestone pillars, go kayaking in hidden lagoons, and enjoy fresh seafood onboard.",
+            "2. Sung Sot Cave: Visit the Sung Sot Cave, also known as Surprise Cave, to witness its impressive stalactites and stalagmites formations.",
+            "3. Ti Top Island: Hike to the top of Ti Top Island for panoramic views of Ha Long Bay from its viewing deck.",
+            "4. Sun World Ha Long Park: Enjoy thrilling rides, water parks, and an indoor entertainment complex at Sun World Ha Long Park.",
+            "5. Cat Ba Island: Take a ferry to Cat Ba Island for beautiful beaches, hiking trails, and the Cat Ba National Park.",
+            "6. Explore Fishing Villages: Get a glimpse of local life by visiting floating fishing villages like Cua Van and Vung Vieng."
+          ]
+        },
+        {
+          "title": "Cuisine",
+          "content": "Don't miss trying some of Ha Long's famous dishes, including fresh seafood, spring rolls, and banh cuon (rice rolls filled with minced pork and mushrooms). You can also enjoy a seafood barbecue on the deck of your cruise boat."
+        },
+        {
+          "title": "Culture and Festivals",
+          "content": "Ha Long hosts various cultural festivals throughout the year. Check the local calendar for events like the Ha Long Carnival, which features colorful parades and cultural performances."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Pack sunscreen and mosquito repellent, as you'll spend a lot of time outdoors.",
+            "2. Respect local customs and traditions, especially when visiting fishing villages.",
+            "3. Try to learn a few basic Vietnamese phrases; it will enhance your travel experience.",
+            "4. Book your accommodations and cruises in advance, especially during peak seasons.",
+            "5. Stay hydrated and drink bottled water to avoid stomach issues.",
+            "6. Be eco-conscious and help preserve the beauty of Ha Long Bay by not littering and following responsible travel practices."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "Ha Long in 2023 is a destination that promises a perfect blend of natural beauty, adventure, and cultural richness. With this comprehensive guide, you're well-prepared to embark on a memorable journey in one of Vietnam's most enchanting destinations."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Discover the Beauty of Phan Thiết",
+      "picture": "https://media2.gody.vn/public/mytravelmap/images/2022/11/17/nguyenlamdl5569/original/b4bd5867cb9e1449e60c5a3126475511d11a0a76.jpeg",
+      "destination": "Phan Thiết, Vietnam",
+      "year": 2023,
+      "intro": "Welcome to Phan Thiết, a picturesque coastal city in southern Vietnam renowned for its stunning beaches, water sports, and vibrant culture. In 2023, Phan Thiết invites travelers to explore its natural beauty and enjoy a wide range of activities. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "Phan Thiết is easily accessible by flying into Tan Son Nhat International Airport in Ho Chi Minh City and taking a scenic 3-4 hour drive to the city. Alternatively, there are train and bus options for traveling within Vietnam."
+        },
+        {
+          "title": "Accommodation",
+          "content": "Phan Thiết offers a variety of accommodation options, from beachfront resorts to cozy guesthouses and boutique hotels. It's advisable to book your stay in advance, especially during peak tourist seasons."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. Mui Ne Beach: Relax on the beautiful Mui Ne Beach, known for its golden sands and excellent wind conditions for kite surfing and windsurfing.",
+            "2. Sand Dunes: Explore the iconic Red and White Sand Dunes, where you can sled down the sandy slopes and witness stunning sunrise or sunset views.",
+            "3. Fairy Stream: Take a walk along the enchanting Fairy Stream, a natural waterway with red and white sand formations.",
+            "4. Fishing Villages: Visit local fishing villages like Mui Ne Fishing Village to learn about the daily life of fishermen and taste fresh seafood.",
+            "5. Water Sports: Enjoy various water sports activities, including kite surfing, windsurfing, and jet skiing.",
+            "6. Night Market: Experience the vibrant atmosphere of Phan Thiết's night market, offering local street food, handicrafts, and souvenirs."
+          ]
+        },
+        {
+          "title": "Cuisine",
+          "content": "Indulge in Phan Thiết's seafood delights, including grilled fish, shrimp, and squid. Don't miss trying fresh seafood spring rolls and sipping on Vietnamese coffee or coconut water."
+        },
+        {
+          "title": "Culture and Festivals",
+          "content": "Phan Thiết celebrates cultural festivals and events. Check the local calendar for festivals like the Mid-Autumn Festival, featuring lantern parades and traditional performances."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Pack sunscreen and swimwear to protect yourself from the sun and enjoy beach activities.",
+            "2. Bargain at local markets for souvenirs to get the best deals.",
+            "3. Learn some basic Vietnamese phrases to enhance your travel experience and interact with locals.",
+            "4. Be cautious when crossing the streets, as traffic can be busy in the city.",
+            "5. Stay hydrated by drinking bottled water, especially in the warm climate.",
+            "6. Respect local customs and traditions, particularly when visiting temples and cultural sites."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "Phan Thiết in 2023 offers a perfect blend of relaxation, adventure, and cultural exploration. Whether you seek the thrill of water sports or the tranquility of sandy beaches, this comprehensive guide ensures you're well-prepared to make the most of your visit to this coastal gem."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Experience the Wonders of Japan",
+      "picture": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/02/a0002487/img/basic/a0002487_main.jpg?20230106161700",
+      "destination": "Japan",
+      "year": 2023,
+      "intro": "Welcome to Japan, a land of tradition, modernity, and natural beauty. In 2023, Japan invites travelers to immerse themselves in its unique culture and diverse landscapes. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "You can reach Japan by flying into major airports like Tokyo Narita, Osaka Kansai, or Kyoto's Itami Airport. The extensive Shinkansen (bullet train) network makes it convenient to explore various regions."
+        },
+        {
+          "title": "Accommodation",
+          "content": "Japan offers a variety of accommodation options, from traditional ryokans and capsule hotels to luxury hotels in major cities. Advance booking is recommended, especially during peak seasons."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. Cultural Heritage: Explore Japan's rich cultural heritage with visits to Kyoto's temples, Nara's deer park, and Hiroshima's Peace Memorial Park.",
+            "2. Modern Marvels: Experience Japan's modernity in Tokyo's bustling districts, futuristic museums, and high-tech shopping centers.",
+            "3. Nature Escapes: Discover Japan's natural beauty in places like Hokkaido's national parks, the Japanese Alps, and Okinawa's tropical islands.",
+            "4. Cuisine Adventure: Savor Japanese cuisine, including sushi, ramen, tempura, and matcha tea. Don't forget to try kaiseki (traditional multi-course meals).",
+            "5. Festivals and Events: Attend vibrant festivals like Kyoto's Gion Matsuri and Tokyo's cherry blossom festivals.",
+            "6. Onsen Retreats: Relax in natural hot springs (onsen) in picturesque locations such as Hakone and Beppu."
+          ]
+        },
+        {
+          "title": "Cuisine",
+          "content": "Indulge in Japanese gastronomy, with dishes like sashimi, yakitori, takoyaki, and mochi sweets."
+        },
+        {
+          "title": "Culture and Festivals",
+          "content": "Japan hosts numerous cultural events and festivals. Check the local calendar for celebrations like the Tanabata Star Festival and the Sapporo Snow Festival."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Observe proper etiquette when visiting shrines and temples, such as bowing and removing your shoes.",
+            "2. Purchase a Japan Rail Pass for convenient and cost-effective travel on trains and buses.",
+            "3. Learn a few basic Japanese phrases to enhance your travel experience and communicate with locals.",
+            "4. Be punctual, as timeliness is highly valued in Japanese culture.",
+            "5. Try an onsen experience for relaxation and rejuvenation.",
+            "6. Respect local customs and traditions, such as proper table manners and gift-giving."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "Japan in 2023 offers an extraordinary blend of tradition, technology, and natural splendor. Whether you're wandering through ancient temples or dining in a modern izakaya, this comprehensive guide ensures you're well-prepared to experience the wonders of Japan."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "16 most beautiful and captivating tourist destinations in Nha Trang",
+      "picture": "https://statics.vinpearl.com/du-lich-nha-trang-05_1635151704.png",
+      "destination": "Nha Trang, Vietnam",
+      "year": 2023,
+      "intro": "Welcome to Nha Trang, a stunning coastal city in central Vietnam known for its beautiful beaches, vibrant nightlife, and a wide range of water activities. In 2023, Nha Trang continues to be a top destination for travelers seeking sun, sea, and relaxation. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "You can easily reach Nha Trang by flying into Cam Ranh International Airport, which is approximately 30 minutes away from the city center by car. There are also train and bus options for those traveling within Vietnam."
+        },
+        {
+          "title": "Accommodation",
+          "content": "Nha Trang offers a wide range of accommodation options, from luxury resorts along the beach to budget-friendly hostels and guesthouses in the city center. Be sure to book your stay in advance, especially during peak tourist seasons."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. Nha Trang Beach: Relax on the picturesque Nha Trang Beach, known for its golden sands and clear waters. You can swim, sunbathe, or enjoy water sports like jet skiing and parasailing.",
+            "2. Island Hopping: Explore the nearby islands, including Hon Mun, Hon Tam, and Hon Tre, where you can snorkel, dive, and enjoy water-based activities.",
+            "3. Po Nagar Cham Towers: Visit the Po Nagar Cham Towers, ancient Hindu temples that provide a glimpse into Nha Trang's history and culture.",
+            "4. Vinpearl Amusement Park: Have fun at Vinpearl Amusement Park, a massive entertainment complex accessible by cable car from the city center.",
+            "5. Mud Baths: Experience the rejuvenating benefits of mud baths at one of Nha Trang's renowned spa resorts.",
+            "6. Nightlife: Explore the vibrant nightlife of Nha Trang with its bars, clubs, and seafood restaurants."
+          ]
+        },
+        {
+          "title": "Cuisine",
+          "content": "Don't miss trying some of Nha Trang's seafood specialties, including grilled fish, seafood hotpot, and fresh shrimp spring rolls. You can also enjoy Vietnamese coffee and tropical fruit smoothies."
+        },
+        {
+          "title": "Culture and Festivals",
+          "content": "Nha Trang hosts various cultural events and festivals throughout the year. Check the local calendar for celebrations like the Nha Trang Sea Festival, featuring colorful parades and cultural performances."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Pack sunscreen and swimwear, as you'll spend a lot of time in the sun and water.",
+            "2. Bargain when shopping at local markets to get the best deals on souvenirs.",
+            "3. Learn a few basic Vietnamese phrases to enhance your travel experience and interact with locals.",
+            "4. Be cautious when crossing the streets, as traffic can be busy in the city.",
+            "5. Stay hydrated and drink bottled water to avoid dehydration in the tropical climate.",
+            "6. Respect the local culture and customs, especially when visiting temples and religious sites."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "Nha Trang in 2023 offers a perfect blend of relaxation, adventure, and cultural experiences. Whether you're seeking a tranquil beach getaway or an active water sports holiday, this comprehensive guide ensures you're well-prepared to enjoy all that Nha Trang has to offer."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Some reasons why you should visit Hà Giang",
+      "picture": "https://image.bnews.vn/MediaUpload/Org/2021/10/13/t10-13-ha-giang-vietravel-doc-tham-ma-resize-20211013120854.jpg",
+      "destination": "Ha Giang, Vietnam",
+      "year": 2023,
+      "intro": "Welcome to Ha Giang, a stunning mountainous region in northern Vietnam known for its breathtaking landscapes and rich cultural heritage. In 2023, Ha Giang offers travelers a unique adventure with its winding mountain roads, lush valleys, and vibrant ethnic communities. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "To reach Ha Giang, you can fly into Hanoi's Noi Bai International Airport and then take a scenic 7-8 hour bus ride to the province. The journey is an adventure in itself, as you'll pass through picturesque landscapes."
+        },
+        {
+          "title": "Accommodation",
+          "content": "Ha Giang offers a range of accommodation options, including guesthouses, homestays, and boutique hotels. Staying with local ethnic minority families in traditional houses is a unique and rewarding experience."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. Motorbike Loop: Explore the famous Ha Giang Loop on a motorbike, a thrilling journey that takes you through stunning valleys, terraced rice fields, and remote villages.",
+            "2. Dong Van Karst Plateau: Visit the Dong Van Karst Plateau Geopark, a UNESCO World Heritage site known for its geological diversity and ethnic culture.",
+            "3. Ma Pi Leng Pass: Cross the breathtaking Ma Pi Leng Pass, one of the most spectacular mountain passes in Vietnam, offering jaw-dropping views of the Nho Que River below.",
+            "4. Local Markets: Immerse yourself in the local culture by visiting weekly markets in ethnic minority villages, such as the Dong Van Sunday Market.",
+            "5. Trekking: Hike through the scenic landscapes and trekking trails of Ha Giang, including routes to ethnic villages like Lung Cu and Nam Dam.",
+            "6. Try Local Cuisine: Savor local dishes like thang co (a traditional soup) and enjoy a cup of locally grown Vietnamese coffee."
+          ]
+        },
+        {
+          "title": "Culture and Festivals",
+          "content": "Ha Giang is rich in ethnic diversity, and you may have the chance to participate in traditional festivals and ceremonies. Be sure to respect local customs and traditions."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Pack warm clothing, as temperatures can be cool, especially in the evenings.",
+            "2. Check weather conditions before embarking on any outdoor activities.",
+            "3. Learn a few basic phrases in the local languages, such as Hmong or Tay.",
+            "4. Plan your accommodations in advance, especially during peak travel seasons.",
+            "5. Support local communities by buying handmade crafts and products.",
+            "6. Practice responsible tourism by minimizing your environmental impact."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "Ha Giang in 2023 offers a unique opportunity to experience the raw beauty of northern Vietnam and connect with its diverse ethnic cultures. With this comprehensive guide, you're well-prepared to embark on an unforgettable adventure in one of Vietnam's most captivating regions."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Explore the Wonders of England",
+      "picture": "https://www.worldatlas.com/r/w1200/upload/c7/28/32/untitled-design-207.jpg",
+      "destination": "England, United Kingdom",
+      "year": 2023,
+      "intro": "Welcome to England, a land of rich history, picturesque countryside, and vibrant cities. In 2023, England invites travelers to immerse themselves in its diverse culture and stunning landscapes. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "You can easily reach England by flying into major airports like London Heathrow or Manchester. The extensive train and bus networks make it convenient to explore various regions."
+        },
+        {
+          "title": "Accommodation",
+          "content": "England offers a wide range of accommodation options, from charming B&Bs in the countryside to luxury hotels in London. Book your stay in advance, especially during peak tourist seasons."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. London Attractions: Explore iconic landmarks in London, including the Tower of London, Buckingham Palace, and the British Museum.",
+            "2. Countryside Escapes: Venture into the picturesque English countryside, with visits to the Lake District, Cotswolds, and Peak District.",
+            "3. Historical Sites: Discover ancient history at Stonehenge, Bath's Roman Baths, and Oxford University.",
+            "4. Cultural Experiences: Attend theater shows in London's West End, enjoy traditional afternoon tea, and savor classic fish and chips.",
+            "5. Coastal Adventures: Explore England's coastline, with options for hiking, surfing, and relaxing on sandy beaches.",
+            "6. Football Culture: Experience the passion for football (soccer) by attending matches at iconic stadiums like Old Trafford and Anfield."
+          ]
+        },
+        {
+          "title": "Cuisine",
+          "content": "Indulge in English cuisine, with dishes like roast beef with Yorkshire pudding, traditional English breakfast, and afternoon tea with scones."
+        },
+        {
+          "title": "Culture and Festivals",
+          "content": "England hosts various cultural events and festivals throughout the year. Check the local calendar for celebrations like the Notting Hill Carnival and Bonfire Night."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Dress appropriately for the weather, as it can be changeable.",
+            "2. Use Oyster cards or contactless payments for public transport in London.",
+            "3. Learn some basic English phrases to enhance your travel experience.",
+            "4. Plan visits to popular attractions during off-peak hours to avoid crowds.",
+            "5. Enjoy a pint of traditional British ale at a local pub.",
+            "6. Respect local customs and traditions, especially when visiting historic sites and churches."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "England in 2023 offers a delightful mix of history, culture, and natural beauty. Whether you're exploring London's vibrant streets or hiking in the countryside, this comprehensive guide ensures you're well-prepared to discover the wonders of England."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Explore Hanoi - Vietnam's Capital City",
+      "picture": "https://bds123.cdn.static123.com/images/thumbs/900x600/fit/2020/02/10/ha-noi-co-bao-nhieu-quan8_1581302761.jpg",
+      "destination": "Hanoi, Vietnam",
+      "year": 2023,
+      "intro": "Welcome to Hanoi, Vietnam's vibrant capital city, where history, culture, and modernity come together. In 2023, Hanoi offers an incredible array of experiences, from exploring its ancient streets to savoring mouthwatering street food. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Historic Old Quarter",
+          "content": "Start your journey in the heart of Hanoi's Historic Old Quarter, a maze of narrow streets filled with centuries-old architecture. Explore bustling markets, traditional shops, and ancient temples."
+        },
+        {
+          "title": "Hoan Kiem Lake",
+          "content": "Stroll around Hoan Kiem Lake, the city's scenic centerpiece. Visit Ngoc Son Temple located on a small island in the lake and learn about the legend of the Golden Turtle."
+        },
+        {
+          "title": "Street Food Paradise",
+          "content": "Indulge in Hanoi's legendary street food. Don't miss iconic dishes like pho (noodle soup), bun cha (grilled pork with noodles), and banh mi (Vietnamese sandwich)."
+        },
+        {
+          "title": "Cultural Landmarks",
+          "content": "Explore cultural landmarks such as the Temple of Literature, a tribute to Confucius, and the One Pillar Pagoda, an architectural marvel. Dive into Vietnam's history and spirituality."
+        },
+        {
+          "title": "Water Puppetry",
+          "content": "Experience traditional water puppetry at Thang Long Water Puppet Theatre. Watch intricate puppet shows that depict Vietnamese folklore and legends."
+        },
+        {
+          "title": "Museums and Galleries",
+          "content": "Visit museums like the Vietnam Museum of Ethnology and the Hoa Lo Prison Museum to gain insights into Vietnamese culture and history. Explore art galleries showcasing contemporary Vietnamese art."
+        },
+        {
+          "title": "Vibrant Nightlife",
+          "content": "Discover Hanoi's vibrant nightlife in the bustling streets of the Old Quarter. Sip on locally brewed beer at Bia Hoi corners, enjoy live music, and explore the city after dark."
+        },
+        {
+          "title": "Day Trips",
+          "content": "Consider day trips to nearby attractions like the Perfume Pagoda and Bat Trang Ceramic Village for a deeper exploration of Hanoi's surroundings."
+        },
+        {
+          "title": "Conclusion",
+          "content": "Hanoi in 2023 invites you to uncover its rich heritage, taste its delectable cuisine, and immerse yourself in its dynamic culture. With this comprehensive guide, you're well-prepared to explore the enchanting capital of Vietnam."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Discover the Beauty of Italy",
+      "picture": "https://www.ourescapeclause.com/wp-content/uploads/2020/09/shutterstock_1037347711-768x512.jpg",
+      "destination": "Italy",
+      "year": 2023,
+      "intro": "Welcome to Italy, a country known for its art, history, cuisine, and stunning landscapes. In 2023, Italy beckons travelers with its rich heritage and diverse regions. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "You can reach Italy by flying into major airports like Rome Fiumicino, Milan Malpensa, or Venice Marco Polo. Italy's extensive train network also makes it easy to explore various cities."
+        },
+        {
+          "title": "Accommodation",
+          "content": "Italy offers a wide range of accommodation options, from charming agriturismos in Tuscany to luxury hotels in Rome. Book your stay in advance, especially during peak tourist seasons."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. Historical Marvels: Explore iconic historical sites such as the Colosseum in Rome, the Leaning Tower of Pisa, and the ancient city of Pompeii.",
+            "2. Art and Culture: Immerse yourself in art and culture with visits to Florence's Uffizi Gallery, Venice's St. Mark's Basilica, and Milan's museums.",
+            "3. Culinary Delights: Savor authentic Italian cuisine, including pasta dishes, pizza, gelato, and fine wines from regions like Tuscany and Piedmont.",
+            "4. Scenic Landscapes: Discover Italy's natural beauty in regions like the Amalfi Coast, Cinque Terre, and the Italian Lakes.",
+            "5. Island Escapes: Visit islands like Sicily and Sardinia for beaches, ancient ruins, and unique local culture.",
+            "6. Festivals and Events: Experience Italy's vibrant festivals, from Venice Carnival to Siena's Palio horse race."
+          ]
+        },
+        {
+          "title": "Cuisine",
+          "content": "Indulge in Italian gastronomy, with dishes like spaghetti carbonara, risotto, tiramisu, and espresso coffee."
+        },
+        {
+          "title": "Culture and Festivals",
+          "content": "Italy hosts a plethora of cultural events and festivals throughout the year. Check the local calendar for celebrations like the Venice Biennale and the Siena Palio."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Dress stylishly, as Italians take fashion seriously.",
+            "2. Validate train and bus tickets before boarding to avoid fines.",
+            "3. Learn a few basic Italian phrases to enhance your travel experience and communicate with locals.",
+            "4. Visit popular attractions early in the morning or late in the afternoon to beat the crowds.",
+            "5. Enjoy an aperitivo with appetizers before dinner.",
+            "6. Respect local customs and traditions, especially when visiting churches and historic sites."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "Italy in 2023 promises an enchanting journey through art, history, and culinary excellence. Whether you're exploring ancient ruins or sipping espresso in a picturesque piazza, this comprehensive guide ensures you're well-prepared to uncover the beauty of Italy."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Some Reasons Why You Should Visit Ho Chi Minh City",
+      "picture": "https://media.tapchitaichinh.vn/w1480/images/upload/hoangthuviet/02242022/trung-tam-tai-chinh-quoc-te.jpg",
+      "destination": "Ho Chi Minh City, Vietnam",
+      "year": 2023,
+      "intro": "Welcome to Ho Chi Minh City, the bustling and vibrant metropolis of southern Vietnam. In 2023, Ho Chi Minh City beckons travelers with its dynamic energy, historical landmarks, and rich culinary scene. Here's your comprehensive guide to make the most of your visit:",
+      "sections": [
+        {
+          "title": "Getting There",
+          "content": "You can reach Ho Chi Minh City by flying into Tan Son Nhat International Airport, one of the busiest airports in Vietnam. The city is well-connected by air and also accessible by train and bus from other parts of the country."
+        },
+        {
+          "title": "Accommodation",
+          "content": "Ho Chi Minh City offers a wide range of accommodation options, from luxury hotels to budget-friendly hostels and boutique guesthouses. Consider staying in the city center for easy access to major attractions."
+        },
+        {
+          "title": "Things to Do",
+          "content": [
+            "1. War Remnants Museum: Explore the War Remnants Museum to learn about Vietnam's history, especially the Vietnam War. It houses exhibits and artifacts related to the war.",
+            "2. Cu Chi Tunnels: Visit the Cu Chi Tunnels, an extensive network of underground tunnels used by the Viet Cong during the war. Take a guided tour to understand their significance.",
+            "3. Ben Thanh Market: Shop for souvenirs, clothing, and local food at Ben Thanh Market, a bustling and iconic market in the heart of the city.",
+            "4. Notre-Dame Cathedral Basilica of Saigon: Admire the stunning architecture of the Notre-Dame Cathedral Basilica of Saigon, a French colonial-era church.",
+            "5. Street Food Adventure: Dive into the world of Vietnamese cuisine by exploring street food stalls. Try famous dishes like pho, banh mi, and fresh spring rolls.",
+            "6. Mekong Delta Day Trip: Take a day trip to the Mekong Delta, known for its scenic waterways, floating markets, and traditional villages."
+          ]
+        },
+        {
+          "title": "Cultural Attractions",
+          "content": "Discover the city's rich culture by visiting historic landmarks such as the Reunification Palace and the Saigon Opera House. Attend traditional performances and art exhibitions."
+        },
+        {
+          "title": "Nightlife",
+          "content": "Experience the lively nightlife of Ho Chi Minh City. Head to popular districts like District 1 and District 3 for bars, clubs, and live music venues."
+        },
+        {
+          "title": "Travel Tips",
+          "content": [
+            "1. Dress modestly when visiting religious sites and temples.",
+            "2. Bargain when shopping at local markets for better deals.",
+            "3. Use reputable taxi services or ride-sharing apps for transportation.",
+            "4. Be cautious when crossing the streets, as traffic can be busy.",
+            "5. Stay hydrated in the tropical climate and try fresh coconut water.",
+            "6. Respect local customs and traditions to have a positive cultural exchange."
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "content": "Ho Chi Minh City in 2023 offers a mix of history, culture, and urban excitement. Whether you're interested in learning about Vietnam's past, indulging in delicious cuisine, or enjoying the city's nightlife, this comprehensive guide ensures you're well-prepared to explore the lively heart of southern Vietnam."
+        }
+      ]
+    }
+  ],
+  "domesticTours": [
+    {
+      "id": 111,
+      "picture": "https://cdn.tgdd.vn/Files/2022/01/18/1411528/10-dia-diem-du-lich-mien-bac-phai-den-1-lan-trong-doi-202202161027159218.jpg",
+      "picture1": "https://vcdn1-dulich.vnecdn.net/2022/04/18/dulichNinhBinhVnExpress-165027-2285-9515-1650278117.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=EKON9JHNMuFD31A1AvzEYw",
+      "picture2": "https://cdn3.ivivu.com/2022/07/h%E1%BB%93-g%C6%B0%C6%A1m-du-l%E1%BB%8Bch-H%C3%A0-N%E1%BB%99i-ivivu.jpg",
+      "type": " 3 days 2 nights",
+      "departure": "Hanoi",
+      "title": "Hạ Long - Hà Nội - Ninh Bình",
+      "intro": "Explore the stunning beauty of Ha Long Bay, experience the vibrant culture of Hanoi, and immerse yourself in the natural wonders of Ninh Binh. This 3-day, 2-night tour offers an unforgettable journey through Northern Vietnam.",
+      "details": "Day 1: Begin your adventure with a cruise through Ha Long Bay... \nDay 2: Discover the bustling streets and historical sites of Hanoi... \nDay 3: Journey to Ninh Binh and explore its breathtaking landscapes...",
+      "price": "400",
+      "slots": ""
+    },
+    {
+      "id": 222,
+      "picture": "https://dulichvietnam.com.vn/vnt_upload/news/10_2019/dia-diem-mua-dong-1.jpg",
+      "picture1": "https://www.goldenlife.vn/wp-content/uploads/2022/10/vinh-ha-long-1.jpg",
+      "picture2": "https://www.kynghidongduong.vn/images/product/img1/1_song-nho-que-ha-giang-kynghidongduong-vn-09.webp",
+      "type": "3 days 2 nights",
+      "departure": "Hanoi",
+      "title": "Ha Long - Sapa - Ha Giang.",
+      "intro": "Embark on a journey through the mesmerizing landscapes of Ha Long, the cultural richness of Sapa, and the breathtaking beauty of Ha Giang. This 3-day, 2-night adventure is perfect for those seeking both nature and culture.",
+      "details": "Day 1: Begin your trip with a cruise through the enchanting Ha Long Bay...\nDay 2: Explore the traditional villages and stunning terraced fields of Sapa...\nDay 3: Discover the scenic wonders of Ha Giang...",
+      "price": "290",
+      "slots": 10
+    },
+    {
+      "id": 333,
+      "picture": "https://ik.imagekit.io/tvlk/blog/2022/03/dia-diem-du-lich-yen-bai-1-1024x597.jpg?tr=dpr-2,w-675",
+      "picture1": "https://envangtaxi.com.vn/ckfinder/userfiles/images/envang/bai%20viet/du%20lich%20hai%20phong/du%20lich%20hai%20phong%202.JPG",
+      "picture2": "https://tokyometro.vn/wp-content/uploads/2022/07/1659148144_815_Kham-pha-13-dia-diem-du-lich-mien-Bac-Viet.jpg",
+      "type": "3 days 2 nights",
+      "departure": "Hanoi",
+      "title": "Yen Bai - Hai Phong - Ninh Binh.",
+      "intro": "Experience the unique blend of Yen Bai's natural beauty, Hai Phong's coastal charm, and Ninh Binh's tranquil landscapes. This 3-day, 2-night journey is a perfect escape from the hustle and bustle of city life.",
+      "details": "Day 1: Start your adventure with a visit to the picturesque landscapes of Yen Bai...\nDay 2: Explore the coastal delights of Hai Phong and its charming beaches...\nDay 3: Immerse yourself in the serene beauty of Ninh Binh...",
+      "price": "190",
+      "slots": "22"
+    },
+    {
+      "id": 444,
+      "picture": "https://media.licdn.com/dms/image/C4E12AQF9iHdPu0MNKQ/article-inline_image-shrink_1000_1488/0/1520238776663?e=1697673600&v=beta&t=ojwA6VtZGLOXEDx3M9sqeY6eBdYVfeNovNNnrcvjHgI",
+      "picture1": "https://hdtransport.vn/hinhanh/sanpham/thue-xe-du-lich-ha-noi-mai-chau-ninh-binh-ha-long-cat-ba-sapa.jpg",
+      "picture2": "https://datviettour.com.vn/uploads/images/mien-bac/ninh-binh/hinh-danh-thang/850px/trang-an.jpg",
+      "type": "3 days 2 nights",
+      "departure": "Hanoi",
+      "title": "Cat Ba - Moc Chau - Ninh Binh.",
+      "intro": "Discover the scenic wonders of Cat Ba Island, the refreshing landscapes of Moc Chau, and the natural beauty of Ninh Binh. This 3-day, 2-night adventure promises an unforgettable exploration of Northern Vietnam.",
+      "details": "Day 1: Begin your journey with a visit to the captivating Cat Ba Island...\nDay 2: Explore the rolling hills and tea plantations of Moc Chau...\nDay 3: Immerse yourself in the serene landscapes and attractions of Ninh Binh...",
+      "price": "260",
+      "slots": 10
+    },
+    {
+      "id": 555,
+      "picture": "data:image/jpeg;base64,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",
+      "picture1": "https://luxtour.com.vn/wp-content/uploads/2021/02/tour-chua-huong-tam-chuc-bai-dinh-2-ngay-1-dem-8.jpg",
+      "picture2": "https://www.dulichvtv.com/wp-content/uploads/2019/01/tour-du-lich-xuan-2019-ha-noi-chua-tam-chuc-chua-bai-dinh-2-ngay2.jpg",
+      "type": "3 days 2 nights",
+      "departure": "Hanoi",
+      "title": "Yen Tu Pagoda - Tam Chuc Pagoda - Chùa Hương.",
+      "intro": "Embark on a spiritual journey to Yen Tu Pagoda, experience the tranquility of Tam Chuc Pagoda, and explore the historical significance of Chùa Hương. This 3-day, 2-night tour offers a unique blend of culture and spirituality.",
+      "details": "Day 1: Begin your spiritual journey with a visit to Yen Tu Pagoda...\nDay 2: Experience the tranquility and grandeur of Tam Chuc Pagoda...\nDay 3: Explore the rich history and cultural heritage of Chùa Hương...",
+      "price": "690",
+      "slots": 10
+    }
+  ],
+  "internationalTours": [
+    {
+      "id": 112342,
+      "picture": "https://carnivalvn.com/wp-content/uploads/2020/08/paris.jpg",
+      "picture1": "https://dulichdaiviet.com/temp/-uploaded-anh-cam-nang-dl-cam-nang-dl-chau-au_tourdulich3nuocchauau_thumb_1200x1200.jpg",
+      "picture2": "https://vcdn-dulich.vnecdn.net/2020/01/08/sac-mau-cua-bien-vnexpress-1-6641-1578454676.jpg",
+      "type": "8 days 7 nights",
+      "departure": "Ho Chi Minh City",
+      "title": "Spain - Portugal - France.",
+      "intro": "Explore the enchanting landscapes and rich cultures of Spain, Portugal, and France on this 7-day adventure. From the bustling streets of Madrid to the romantic charm of Paris, this journey promises an unforgettable experience. Discover the art, history, and gastronomy that make these countries so unique.",
+      "details": "During this 7-day tour, you'll visit iconic landmarks such as the Eiffel Tower, Sagrada Familia, and the historic neighborhoods of Lisbon. Savor delicious local cuisine, enjoy guided tours, and have free time for exploration. This package includes accommodations, transportation, and the expertise of knowledgeable guides. Don't miss the chance to immerse yourself in the beauty of Southern Europe.",
+      "price": "2990",
+      "slots": 10
+    },
+    {
+      "id": 112321,
+      "picture": "https://nld.mediacdn.vn/291774122806476800/2022/8/3/photo-1-16595136408621421783087.jpg",
+      "picture1": "https://dulichviet.com.vn/images/bandidau/du%20lich%20chau-au-THE%20NETHERLANDS.jpg",
+      "picture2": "https://dulichchauau.org/view/admin/Themes/kcfinder/upload/images/1(8).jpg",
+      "type": "7 days 6 nights",
+      "departure": "Ho Chi Minh City",
+      "title": "Finland - Italy - France.",
+      "intro": "Embark on a 7-day journey through the captivating landscapes of Finland, Italy, and France. From the mystical beauty of Lapland to the artistic treasures of Florence, this tour offers a diverse range of experiences. Immerse yourself in culture, history, and natural wonders.",
+      "details": "This 7-day adventure includes visits to the Northern Lights in Finland, the historical sites of Rome, and the picturesque vineyards of Bordeaux. Enjoy guided tours, tastings of local cuisine, and plenty of free time for independent exploration. Your accommodations and transportation are all taken care of, ensuring a stress-free and memorable trip.",
+      "price": "4990",
+      "slots": 10
+    },
+    {
+      "id": 114143132,
+      "picture": "https://cdn.tgdd.vn/Files/2021/07/20/1369467/bo-tui-kinh-nghiem-du-lich-chau-au-tu-tuc-day-du-va-chi-tiet-202107201335578323.jpg",
+      "picture1": "https://phuotvivu.com/blog/wp-content/uploads/2019/01/hy-lap-greece.jpg",
+      "picture2": "https://cdn-blog.saladin.vn/contents/2022/12/17211007/kinh-nghiem-du-lich-nuoc-ngoai-an-toan-nhung-luu-y-an-toan-khi-kham-pha-croatia-1-1024x576.jpg",
+      "type": "15 days 14 nights",
+      "departure": "Ho Chi Minh City",
+      "title": "Germany - Greece - Hungary.",
+      "intro": "Indulge in a 15-day odyssey through the heart of Europe, visiting Germany, Greece, and Hungary. From the modernity of Berlin to the ancient ruins of Athens, and the vibrant streets of Budapest, this tour is a fusion of history, culture, and adventure.",
+      "details": "On this 15-day journey, you'll explore famous landmarks like the Acropolis, the Brandenburg Gate, and the Buda Castle. Savor Mediterranean and Central European cuisines, enjoy guided tours, and have leisure time for your own discoveries. This comprehensive package covers accommodations, transportation, and the expertise of local guides to ensure an enriching travel experience.",
+      "price": "3990",
+      "slots": 10
+    },
+    {
+      "id": 11412324125,
+      "picture": "https://deviet.vn/wp-content/uploads/2017/05/du-lich-quoc-can-bao-nhieu-tien.png",
+      "picture1": "https://dulichvietmy.vn/wp-content/uploads/2019/03/cau-thap-london-dulichvietmy.jpg",
+      "picture2": "https://dulichchauau.org/view/admin/Themes/kcfinder/upload/images/new/mua-he-chau-au/mua-he-chau-au-du-lich-mixtourist.jpg",
+      "type": "15 days 14 nights",
+      "departure": "Ho Chi Minh City",
+      "title": "United Kingdom - Sweden - Switzerland.",
+      "intro": "Embark on a 15-day exploration of the United Kingdom, Sweden, and Switzerland. From the bustling streets of London to the serene landscapes of Switzerland's alpine regions, this tour offers a perfect blend of history, nature, and culture.",
+      "details": "During this 15-day adventure, you'll visit iconic sites like the Tower of London, the Vasa Museum in Stockholm, and the Swiss Alps. Savor the flavors of each region's cuisine, enjoy guided tours, and have ample free time to explore. Your accommodations and transportation are all part of this comprehensive package, ensuring a hassle-free and immersive journey.",
+      "price": "8690",
+      "slots": 10
+    },
+    {
+      "id": 34634524351,
+      "picture": "https://dulichviet.com.vn/images/bandidau/du%20lich%20chau-au-THE%20NETHERLANDS.jpg",
+      "picture1": "https://cdn-blog.saladin.vn/contents/2022/12/17211007/kinh-nghiem-du-lich-nuoc-ngoai-an-toan-nhung-luu-y-an-toan-khi-kham-pha-croatia-1-1024x576.jpg",
+      "picture2": "https://htsinternationaltravel.com/uploads/Article/diem-den-ngoai-nuoc/Croatia-Old-Town-Dubrovnik-HTS-International-Travel.jpg",
+      "type": "7 days 6 nights",
+      "departure": "Ho Chi Minh City",
+      "title": "Turkey  - Portugal - France.",
+      "intro": "Embark on a 7-day journey through the enchanting destinations of Turkey, Portugal, and France. From the vibrant markets of Istanbul to the scenic vineyards of Bordeaux, this tour promises a delightful blend of cultures, history, and cuisine.",
+      "details": "During this 7-day adventure, you'll explore iconic landmarks such as the Blue Mosque, Belem Tower, and the Palace of Versailles. Savor the flavors of Mediterranean and French cuisines, enjoy guided tours, and have free time for independent exploration. This package includes accommodations, transportation, and the expertise of experienced guides.",
+      "price": "5990",
+      "slots": 10
+    },
+    {
+      "id": 345345431,
+      "picture": "https://dulichhoangnguyen.com/upload/images/dai%20dien%201(5).jpg",
+      "picture1": "https://dulichfun.com/wp-content/uploads/2017/08/Du-lich-cac-nuoc-chau-Au-Y.png",
+      "picture2": "https://cdn.alongwalk.info/vn/wp-content/uploads/2022/03/13152204/image-hanh-trinh-di-tour-du-lich-vong-quanh-cac-nuoc-chau-au-164713452392977.png",
+      "type": "4 days 3 nights",
+      "departure": "Hanoi",
+      "title": "Netherlands - Luxembourg - Moldova.",
+      "intro": "Discover the hidden gems of Europe on this 4-day journey through the Netherlands, Luxembourg, and Moldova. From the charming canals of Amsterdam to the historic streets of Luxembourg City, this tour offers a taste of Europe's diversity.",
+      "details": "During this 4-day adventure, you'll explore picturesque landscapes, visit cultural sites, and enjoy guided tours of notable attractions. Savor local cuisine and have leisure time for your own discoveries. Your accommodations and transportation are all part of this comprehensive package, ensuring a hassle-free experience.",
+      "price": "6990",
+      "slots": 10
+    },
+    {
+      "id": 1768967555,
+      "picture": "https://eurotravel.com.vn/wp-content/uploads/2023/03/mot-so-diem-den-noi-tieng-khi-di-du-lich-chau-au.jpg",
+      "picture1": "https://ik.imagekit.io/tvlk/blog/2022/09/go-and-share-du-lich-bac-au-2-1024x683.jpg?tr=dpr-2,w-675",
+      "picture2": "https://eutrip.vn/view/admin/Themes/kcfinder/upload/images/bac-au-eutrip7.jpg",
+      "type": "6 days 5 nights",
+      "departure": "Hanoi",
+      "title": "Iceland - Norway - Poland.",
+      "intro": "Embark on a 6-day exploration of the enchanting landscapes of Iceland, the majestic fjords of Norway, and the historic cities of Poland. From the natural wonders of Iceland's Golden Circle to the rich history of Krakow, this tour promises a memorable journey.",
+      "details": "During this 6-day adventure, you'll witness the beauty of the Blue Lagoon, the Norwegian fjords, and the architecture of Warsaw. Enjoy guided tours, local cuisine, and free time for your own exploration. Your accommodations and transportation are all included, making this trip a seamless and immersive experience.",
+      "price": "4990",
+      "slots": 10
+    }
+  ],
+  "bookingManage": [
+    {
+      "userEmail": "xxx@gmail.com",
+      "tourId": 333,
+      "selectedDate": "2023-09-21T17:00:00.000Z",
+      "lastname": "Hatano",
+      "firstname": "Yui",
+      "address": "77 Lê Trung Nghĩa, Phường 12, Tân Bình, Hồ Chí Minh",
+      "phone": "0909234093",
+      "adults": "12",
+      "children": "2",
+      "payment": 2680,
+      "id": 3
+    },
+    {
+      "userEmail": "xxx@gmail.com",
+      "tourId": 112321,
+      "selectedDate": "2023-09-26T17:00:00.000Z",
+      "lastname": "Nguyen",
+      "firstname": "Minh Hung",
+      "address": "Block U - Chung cư Q7 Riverside Complex, 04 Đ. Đào Trí, Phú Thuận, Quận 7, Hồ Chí Minh",
+      "phone": "0901342323",
+      "adults": "2",
+      "children": "2",
+      "payment": 15521,
+      "id": 4
+    }
+  ]
+}

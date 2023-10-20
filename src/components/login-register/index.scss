@@ -1,0 +1,23 @@
+.form-wrapper {
+  width: 100%;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+
+  .cancel-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 16.5%;
+    right: 1%;
+  }
+  color: #fff0f000;
+}

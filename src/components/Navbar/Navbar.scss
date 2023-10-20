@@ -1,0 +1,25 @@
+.customButton {
+  color: #4b548b;
+  background-color: #fff;
+  border: 1px solid #4b548b;
+
+  &:hover {
+    color: #fff;
+    background-color: #4b548b;
+  }
+}
+
+.customNavStyle {
+  color: #4b548b;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 10px 20px;
+}
+
+.customDropdown {
+  color: #4b548b;
+  text-decoration: none;
+  &:active {
+    background-color: #e0e0e0;
+  }
+}
