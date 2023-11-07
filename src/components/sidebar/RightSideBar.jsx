@@ -50,7 +50,7 @@ export default function SideBarRight() {
           <Image
             variant="top"
             className="w-50"
-            src="https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/329234529_898752718228163_1951761723415478570_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1b51e3&_nc_ohc=9XqUSvOfEwUAX_wHBEE&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfBGhqPTo0OaMbIGmnxPpAgyydivUt5ESyr2UgytVM70ZQ&oe=64FB49CD"
+            src="https://cdn.tuoitre.vn/zoom/515_322/471584752817336320/2023/8/7/dinh-chieu-lau-thi-ha-giang-169140493613953470829-63-0-1313-2000-crop-16914057314481523378847.jpg"
           />
           <Card.Title as="h6">Hiep Dinh</Card.Title>
         </Card.Body>

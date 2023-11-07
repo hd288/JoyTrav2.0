@@ -44,7 +44,7 @@ export default function NavBar() {
         <Container fluid>
           <Image
             style={{ width: "150px", border: "none" }}
-            src="https://scontent.xx.fbcdn.net/v/t1.15752-9/367784816_144020932079229_7634449212922484509_n.png?stp=dst-png_s206x206&_nc_cat=102&ccb=1-7&_nc_sid=aee45a&_nc_ohc=bodUnMUah_AAX_5G4QZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTNFC91Z8CYq4Xr2AaMJ-t0HkrhtUl2voANv5T9SnTCpw&oe=6545DC0B"
+            src="https://scontent.fsgn2-8.fna.fbcdn.net/v/t1.15752-9/367784816_144020932079229_7634449212922484509_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=z_0YNBshrTcAX9DxNZD&_nc_ht=scontent.fsgn2-8.fna&oh=03_AdS6CEoiuLFjkF5ngksI7QVVt_a2v0y-n5tgnJOBx8MMrg&oe=65715D8B"
             thumbnail
           />
           <Navbar.Toggle aria-controls="offcanvasNavbar-expand-lg" />
