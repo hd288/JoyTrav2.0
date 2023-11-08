@@ -3,7 +3,7 @@ const carouselData = [
     place:"Hạ Long - Quảng Ninh",
     intro:"Nulla vitae elit libero, a pharetra augue mollis interdum.",
     image:
-      "https://www.halongtravelguide.com/wp-content/uploads/2023/04/halongtravelguide-2.jpg",
+      "https://media.baoquangninh.vn/dataimages/201904/original/images1283642_2.jpg",
   },
   {
     place:"Sapa - Lào Cai",
