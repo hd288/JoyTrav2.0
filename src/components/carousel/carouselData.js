@@ -1,16 +1,17 @@
 const carouselData = [
   {
+    place: "Hạ Long - Quảng Ninh",
+    intro: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+    image:
+      "https://media.baoquangninh.vn/dataimages/202012/original/images1460745_anh_1.jpg",
+  },
+  {
     place: "Sapa - Lào Cai",
     intro: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
     image:
       "https://deih43ym53wif.cloudfront.net/rice-field-terrace-vietnam-shutterstock_554460046_d71ff868b1.jpeg",
   },
-  {
-    place: "Hạ Long - Quảng Ninh",
-    intro: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-    image:
-      "https://media.baoquangninh.vn/dataimages/201904/original/images1283642_2.jpg",
-  },
+
   {
     place: "Bà Nà - Đà Nẵng",
     intro: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
